@@ -1,0 +1,11 @@
+10  15
+W E S T W @ L F P W 4 B C D E
+S H H S W F L @ W T 4 4 9 E F
+S E W W W W L L L T C 4 E F G
+S E W L L L L @ W F 4 4 C 9 E
+E S L L W W W W W W 4 C 9 E F
+W W W W W W W W W W F G H I J
+W W @ @ L L F F W W 4 B C 9 E
+E E S S T T W W W @ 5 C 9 E F
+L L F F T T S S E E C 9 E F G
+W W F F L L S S F F 4 B C 9 E

@@ -1,0 +1,4 @@
+3  4
+P W S H
+W W W H
+H H H S
