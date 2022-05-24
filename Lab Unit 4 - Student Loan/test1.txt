@@ -1,0 +1,12 @@
+2
+Loans 'r' Us
+ 6.8 50.0  20.0
+Loan Sharks
+10.0 100.0 0.0
+3
+Joe Wolf
+10000.0 10
+Janie West
+20000.0  5
+Patty Plano
+15595.5 27
