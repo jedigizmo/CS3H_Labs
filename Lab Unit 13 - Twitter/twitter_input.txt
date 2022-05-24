@@ -1,0 +1,14 @@
+Snow White       @ruby_lips
+Cinderella       @glass_slippers
+Prince Charming  @damsel_rescuer
+Aurora           @briar_rose
+Belle            @beauty
+Jasmine          @tiger_tamer
+Aladdin          @carpet_pilot
+Mulan            @fighter
+Li Shang         @warrior
+Rapunzel         @ponytail
+Ariel            @mermaid
+Eric             @ship_captain
+Merida           @brave_girl
+Simba            @jungle_king
